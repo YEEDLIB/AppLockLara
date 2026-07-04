@@ -1,11 +1,31 @@
-<div align="center">
+<h1 align="center">App Lock Lara</h1>
+<p align="center"><b>App Locker & Privacy Guard</b></p>
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## Overview
 
-  <h1>Built with AI Studio</h2>
+AppLockLara is a modern, App Lock Lara designed to protect your privacy and sensitive
+data. Lock any app, prevent unauthorized access, and enjoy a seamless Material You experience. No
+root required.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Features
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+- Material You design, adapts to your theme
+- Biometric and PIN authentication
+- Fingerprint, Face Unlock, and PIN support
+- Lock any app on your device
+- Anti-uninstall protection
+- Unlock timeout for convenience
+- No root required
+- One-tap App Lock Laraing
+- All data stays on your device
+- Real-time background protection
+- Lightweight and fast
 
-</div>
+<br/>
+
+## Use Cases
+
+- Shared devices
+- Parental controls
+- Protecting work apps
+- General privacy
